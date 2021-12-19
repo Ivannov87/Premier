@@ -85,7 +85,7 @@ h1, h2, h3, h4, h5, h6 {
   color: #556270;
 }
 #header .logo img {
-  max-height: 40px;
+  max-height: 43px;
 }
 
 /*--------------------------------------------------------------
@@ -1664,13 +1664,16 @@ section {
 # Footer
 --------------------------------------------------------------*/
 #footer {
-  background: #4a5562;
+  background-image: url("../img/footer/footer_premier.png");
+  background-size: cover;
+
+
   padding: 0 0 30px 0;
   color: #fff;
   font-size: 14px;
 }
 #footer .footer-top {
-  background: #515d6a;
+  background: #0584b1;
   padding: 60px 0 30px 0;
 }
 #footer .footer-top .footer-info {
